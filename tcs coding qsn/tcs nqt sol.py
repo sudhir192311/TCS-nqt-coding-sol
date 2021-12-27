@@ -3,12 +3,12 @@ Given an input string, you have to encrypt the string in such a manner that ‘a
 
  
 
-Input format
+Input format:-
 The input is a lower case string
 
  
 
-Output format
+Output format:-
 Encrypted lower case string
 
  
