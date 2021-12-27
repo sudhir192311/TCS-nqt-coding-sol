@@ -1,0 +1,2 @@
+# TCS-nqt-coding-sol
+TCS NQT CODING QSN SOLUTION(21 FEB 2021)
